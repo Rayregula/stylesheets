@@ -1,0 +1,22 @@
+{
+  "name": "stylesheets",
+  "version": "0.1",
+  "description": "Stylesheets.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayregula/stylesheets.git"
+  },
+  "keywords": [
+    "stylesheet",
+    "syntax"
+  ],
+  "author": "Rayregula",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/rayregula/stylesheets/issues"
+  },
+  "homepage": "https://github.com/rayregula/stylesheets"
+}
